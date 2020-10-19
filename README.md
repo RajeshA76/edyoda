@@ -3,6 +3,8 @@
 Problem 1: Find Sequence of travel
 
 ==================================================================================================================================================================
+
+
 You will be given an integer number of elements and for next n lines space separeted key value pairs. make a dict from strings of tickets("to":"from"). find out the sequence of travel. Assuming that there will be only one starting point for the journey.
 
 Input Format:
@@ -24,6 +26,8 @@ Sample Output 0:
 Problem 2: Count number of line inside a code
 
 ==================================================================================================================================================================
+
+
 You will be given a code in string format. 
 
 Write a program utility that counts the number of lines of actual python code in a. For the purpose of this exercise, a line is counted if it contains something other than whitespace or text in a comment.
@@ -59,6 +63,8 @@ Sample Output 0:
 ******************************************************************************************************************************************************************
 Problem 3: Password Validation
 ==================================================================================================================================================================
+
+
 You will be given a string. Write a program to check the strength of a supplied password.
 
 Feebacks:
@@ -92,6 +98,8 @@ The password must contain at least 1 special character and allowed special chara
 ******************************************************************************************************************************************************************Problem 4: Find list where adjacent values sum is even
 
 ==================================================================================================================================================================
+
+
 Given a list of N integers. The task is to eliminate the minimum number of elements such that in the resulting list the sum of any two adjacent values is even.
 
 Numbers = [1, 3, 5, 4, 2]
@@ -115,6 +123,8 @@ Sample Output 0:
 ******************************************************************************************************************************************************************Problem 5: Find sub array
 
 ==================================================================================================================================================================
+
+
 Given an array arr[] of integers and an integer K, the task is to find the greatest contiguous sub-array of size K. 
 
 Sub-array X is said to be greater than sub-array Y if the first non-matching element in both the sub-arrays has a greater value in X than in Y.
