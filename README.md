@@ -1,9 +1,6 @@
-#Edyoda Assignment 1
+# Edyoda Assignment 1
 
-#Problem 1: Find Sequence of travel
-
-==================================================================================================================================================================
-
+## Problem 1: Find Sequence of travel
 
 You will be given an integer number of elements and for next n lines space separeted key value pairs. make a dict from strings of tickets("to":"from"). find out the sequence of travel. Assuming that there will be only one starting point for the journey.
 
@@ -22,11 +19,10 @@ Sample Input 0:
 Sample Output 0:
 
 {'Bombay':'Delhi','Delhi':'Goa','Goa':'Chennai','Chennai':'Banglore'}
+
 ******************************************************************************************************************************************************************
-#Problem 2: Count number of line inside a code
 
-==================================================================================================================================================================
-
+## Problem 2: Count number of line inside a code
 
 You will be given a code in string format. 
 
@@ -60,10 +56,10 @@ print(result)
 
 Sample Output 0:
 10
-******************************************************************************************************************************************************************
-Problem 3: Password Validation
-==================================================================================================================================================================
 
+******************************************************************************************************************************************************************
+
+## Problem 3: Password Validation
 
 You will be given a string. Write a program to check the strength of a supplied password.
 
@@ -94,11 +90,11 @@ Sample Output 0:
 Weak
 The length of the password must be at least 8 characters in length
 The password must contain at least 1 capital letter
-The password must contain at least 1 special character and allowed special characters are (!,@,#,$,&)   
-******************************************************************************************************************************************************************Problem 4: Find list where adjacent values sum is even
+The password must contain at least 1 special character and allowed special characters are (!,@,#,$,&)  
 
-==================================================================================================================================================================
+******************************************************************************************************************************************************************
 
+## Problem 4: Find list where adjacent values sum is even
 
 Given a list of N integers. The task is to eliminate the minimum number of elements such that in the resulting list the sum of any two adjacent values is even.
 
@@ -120,10 +116,10 @@ Sample Input 0:
 
 Sample Output 0:
 [1, 3, 5]
-******************************************************************************************************************************************************************Problem 5: Find sub array
 
-==================================================================================================================================================================
+******************************************************************************************************************************************************************
 
+## Problem 5: Find sub array
 
 Given an array arr[] of integers and an integer K, the task is to find the greatest contiguous sub-array of size K. 
 
@@ -150,4 +146,5 @@ Sample Input 0:
 
 Sample Output 0:
 [4,3,2]
+
 ******************************************************************************************************************************************************************
